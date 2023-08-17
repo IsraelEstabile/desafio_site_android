@@ -53,9 +53,12 @@ header  p {
     font-family: var(--fonte-padrao);
     text-align: center;
     padding: 30px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 nav {
+    padding-top: 30px;
     text-align: left;
     background-color: var(--cor5);
     padding: 10px;
